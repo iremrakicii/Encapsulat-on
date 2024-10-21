@@ -24,7 +24,7 @@ car1.DisplayCarInfo();
 Car car2 = new Car("Opel", "Corsa", "Gri", 3); // Bu giriş doğrulama hatası verecektir
 car2.DisplayCarInfo();
 
-### Çıktı örneği:
+Çıktı örneği:
 Marka: Wolkswagen
 Model: Polo
 Renk: Beyaz
@@ -40,5 +40,5 @@ Kapı Sayısı: -1
 
 ----------------------------------------------
 
-## Kullandığım Araçlar ve Teknolojiler
+## Kullandığım Araç ve Teknolojiler
 Programlama Dili: C# IDE: Visual Studio
